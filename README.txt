@@ -120,3 +120,5 @@ This will generate html documentation in the doc/html folder.
 If you get stuck, contact us on the alembic-discussion mailing list. You
 can view the mailing list archives and join the mailing list via
 http://groups.google.com/group/alembic-discussion
+
+Join the chat at https://gitter.im/royedwards/alembic
